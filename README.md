@@ -1,6 +1,9 @@
 # Task-Game---Bondly
 Bondly is a Python-based interactive game built using **Tkinter**, designed for friends, family, sisters, and couples to play fun and bonding tasks. Players take turns rolling a dice to reveal unique tasks, creating a fun and engaging experience.
 
+# GitHub README.md Template
+
+````markdown
 # Bondly – Task-Based Interactive Game 🎲💙
 
 Bondly is a Python-based interactive game built using **Tkinter**, designed for friends, family, sisters, and couples to play fun and bonding tasks. Players take turns rolling a dice to reveal unique tasks, creating a fun and engaging experience.
@@ -21,27 +24,54 @@ Bondly is a Python-based interactive game built using **Tkinter**, designed for 
 1. Clone the repository:
 ```bash
 git clone https://github.com/yourusername/bondly-task-game.git
+````
 
-Navigate into the folder:
+2. Navigate into the folder:
+
+```bash
 cd bondly-task-game
-Make sure Python 3 is installed
+```
 
-Run the game:
+3. Make sure Python 3 is installed
+4. Run the game:
+
+```bash
 python main.py
+```
 
-How to Play 🎮
-Select a game mode (Family / Sisters / Friends / Couples)
-Click ROLL 🎲 to reveal a task
-Each player takes turns
-Complete tasks and enjoy the game!
+## How to Play 🎮
 
-Project Structure:
+1. Select a game mode (Family / Sisters / Friends / Couples)
+2. Click **ROLL 🎲** to reveal a task
+3. Each player takes turns
+4. Complete tasks and enjoy the game!
+
+## Project Structure 🗂️
+
+```
 bondly-task-game/
 ├── main.py        # Main game logic & UI
 ├── tasks.py       # Task lists per category
 └── bg.png         # Background image
+```
 
+## Contributing 🤝
 
-License 📄
+Contributions are welcome! You can:
+
+* Add more tasks
+* Improve UI or animations
+* Add sounds or effects
+
+Please open an issue or submit a pull request.
+
+## License 📄
+
 This project is licensed under the MIT License – see the LICENSE file for details.
+
+---
+
+**Have fun playing & bonding! 💙**
+
+python, tkinter, gui, mini-project, game, friends, couples
 
